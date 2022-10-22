@@ -42,6 +42,11 @@
     <WarningLevel>4</WarningLevel>
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <AndroidKeyStore>True</AndroidKeyStore>
+    <AndroidSigningKeyStore>/Users/susingh/Library/Developer/Xamarin/Keystore/androidDemoCert/androidDemoCert.keystore</AndroidSigningKeyStore>
+    <AndroidSigningStorePass>123456</AndroidSigningStorePass>
+    <AndroidSigningKeyAlias>androiddemocert</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>123456</AndroidSigningKeyPass>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
