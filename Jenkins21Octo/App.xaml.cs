@@ -9,7 +9,7 @@ namespace Jenkins21Octo
         public App()
         {
             InitializeComponent();
-            //testing
+            //test
             MainPage = new MainPage();
         }
 
